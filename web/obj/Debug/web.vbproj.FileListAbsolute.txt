@@ -1,0 +1,12 @@
+C:\Users\pxiql\source\repos\web\web\bin\Debug\web.exe.config
+C:\Users\pxiql\source\repos\web\web\bin\Debug\web.exe
+C:\Users\pxiql\source\repos\web\web\bin\Debug\web.pdb
+C:\Users\pxiql\source\repos\web\web\bin\Debug\web.xml
+C:\Users\pxiql\source\repos\web\web\obj\Debug\web.vbprojAssemblyReference.cache
+C:\Users\pxiql\source\repos\web\web\obj\Debug\web.Form1.resources
+C:\Users\pxiql\source\repos\web\web\obj\Debug\web.Resources.resources
+C:\Users\pxiql\source\repos\web\web\obj\Debug\web.vbproj.GenerateResource.cache
+C:\Users\pxiql\source\repos\web\web\obj\Debug\web.vbproj.CoreCompileInputs.cache
+C:\Users\pxiql\source\repos\web\web\obj\Debug\web.exe
+C:\Users\pxiql\source\repos\web\web\obj\Debug\web.xml
+C:\Users\pxiql\source\repos\web\web\obj\Debug\web.pdb
